@@ -60,4 +60,5 @@ First we need to locate your _config.json_
 "FFlagFastGPULightCulling3": "True",
 ```
 
-
+>[!WARNING]
+>This page does not use physics-related fastflags to avoid any risk of users being banned. It focuses solely on performance improvements. While updates may become less frequent once the page is finalized, we will continue to add new fastflags as they are discovered.

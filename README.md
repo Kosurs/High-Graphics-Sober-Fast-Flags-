@@ -29,7 +29,7 @@ First we need to locate your _config.json_
 - Your config.json is located at `~/.var/app/org.vinegarhq.Sober/config/sober`
 - We run: `xdg-open ~/.var/app/org.vinegarhq.Sober/config/sober/config.json`
 - OR We can run `nano ~/.var/app/org.vinegarhq.Sober/config/sober/config.json`
--Can you find a ready-made version [here]()
+-Can you find a ready-made version [here](https://github.com/Kosurs/High-Graphics-Sober-Fast-Flags-/blob/main/HQconfigs.json)
 # First FFLag
 
 ###### Better Fps Unlock 

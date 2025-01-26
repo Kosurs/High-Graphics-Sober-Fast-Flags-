@@ -1,0 +1,17 @@
+{
+    "bring_back_oof": false,
+    "discord_rpc_enabled": true,
+    "enable_hidpi": false,
+    "fflags": {
+         "DFIntTaskSchedulerTargetFps": "29383" ,
+         "FFlagGameBasicSettingsFramerateCap5": "False" ,
+         "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
+         "DFFlagUseVisBugChecks": "True",
+         "FFlagDebugForceFutureIsBrightPhase3": "True",
+         "DFIntTextureQualityOverride": "3",
+         "FFlagFastGPULightCulling3": "True",
+         "DFIntDebugRestrictGCDistance": "3"
+    },
+    "touch_mode": "off",
+    "use_opengl": false
+}

@@ -7,7 +7,7 @@
 <body>
     <h1 align="center">
         <img src="https://github.com/Nightro-Fx/Performance-FastFlags/blob/main/img/Sober.png" width="40" alt="Logo"/> 
-         Sober Fast Flags Better Graphics
+         Sober Fast Flags For Better Graphics
     </h1>
   
 

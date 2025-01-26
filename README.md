@@ -34,9 +34,9 @@ First we need to locate your _config.json_
 
 ###### Better Fps Unlock 
 ```json
- "DFIntTaskSchedulerTargetFps": "29383" ,
-         "FFlagGameBasicSettingsFramerateCap5": "False" ,
-         "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
+"DFIntTaskSchedulerTargetFps": "29383" ,
+"FFlagGameBasicSettingsFramerateCap5": "False" ,
+"FFlagTaskSchedulerLimitTargetFpsTo2402": "False"
 ```
 
 ###### Occlusion Culling (it can came `False` by default)
